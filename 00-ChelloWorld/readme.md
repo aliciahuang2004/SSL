@@ -4,7 +4,9 @@ Aquí vas a encuentrar una simple explicacion de todo los archivos
 ## Contenido
 
    1.readme.md :Archivo de introduccion a todo los archivos de repositorio
+   
    2.hello.c :Archivo fuente del programa
+   
    3.output.txt :Archivo con la salida del programa
 
 ## Version del compilador
