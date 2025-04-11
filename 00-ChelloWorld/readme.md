@@ -1,11 +1,11 @@
 Bienvenido al archivo de readme.md.
-Aquí se encuentra una simple explicacion de todo los archivos
+Aquí vas a encuentrar una simple explicacion de todo los archivos
 
 ## Contenido
 
-   readme.md // Archivo de introduccion a todo los archivos de repositorio
-   hello.c // Archivo fuente del programa
-   output.txt // Archivo con la salida del programa
+   1.readme.md :Archivo de introduccion a todo los archivos de repositorio
+   2.hello.c :Archivo fuente del programa
+   3.output.txt :Archivo con la salida del programa
 
 ## Version del compilador
 compilador seleccionado :mingw
